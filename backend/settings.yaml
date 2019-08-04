@@ -1,0 +1,6 @@
+postgres:
+  host: localhost
+  user: postgres
+  password: postgres
+  db: StoreDb
+  port: 5432
